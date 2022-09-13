@@ -1,7 +1,6 @@
 ## Simple Generative Adverserial Network
 
 ##### PyTorch implementation of GAN introduced in the paper <a href="https://arxiv.org/abs/1406.2661">Generative Adversarial Networks</a> Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
-<br>
 
 ### Introduction
 
